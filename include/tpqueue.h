@@ -2,9 +2,6 @@
 #ifndef INCLUDE_TPQUEUE_H_
 #define INCLUDE_TPQUEUE_H_
 
-#ifndef INCLUDE_TPQUEUE_H_
-#define INCLUDE_TPQUEUE_H_
-
 #include <cassert>
 
 template<typename T, int size>
